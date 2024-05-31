@@ -1,4 +1,4 @@
 # Tilt Switch
-By turning the tilt switch it change the value of signal pin to HIGH <-> LOW and code present it by printing to serial port.
+By turning the tilt switch it changes the value of the signal pin to HIGH <-> LOW and code presents it by printing to the serial port.
 
 ![](connection/Tilt_Switch_bb.png)

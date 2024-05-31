@@ -1,4 +1,4 @@
 # Relay Module
-The code switch on/off the relay periodically.
+The code will switch the relay on/off periodically.
 
 ![](connection/Relay_bb.png)

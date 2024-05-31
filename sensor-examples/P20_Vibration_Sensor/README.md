@@ -1,4 +1,4 @@
 # Vibration Sensor
-The code prints "Vibration detected..." if sensor pin value change to low. This sensor depending on the manufacturer could have low sensitivity.
+The code prints "Vibration detected..." if the sensor pin value changes to low. Depending on the manufacturer the sensor could have low sensitivity.
 
 ![](connection/Vibration_Sensor_bb.png)

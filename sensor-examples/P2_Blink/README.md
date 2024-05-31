@@ -1,2 +1,2 @@
 # On Board LED Blink Example
-The code turn on/off onboard LED every two seconds.
+The code turns the onboard LED on/off every two seconds.
